@@ -1,0 +1,20 @@
+Restaurant,Cuisine,Distance,Adress,Phone 
+Al Forno Neapolitan Wood Fire Pizza,Italian,0.5 miles,"10674 SW 24th St, Miami, FL 33165",(305) 456-3699
+ La Nonna Italian Restaurant,Italian,1.4 miles,"117 SW 107th Ave, Miami, FL 33174",(305) 228-4900
+ Giovanni's,Italian,3.1 miles,"8522 SW 8th St, Miami, FL 33144",(305) 262-6966
+ Good Chef Restaurant,Asian,1.1 miles,"113 SW 107th Ave, Miami, FL 33174",(305) 227-3111
+ 107 Taste,Asian,1.2 miles,"1679 SW 107th Ave, Miami, FL 33165",(786) 717-6378
+ Chang's Chinese Restaurant,Asian,1.7 miles,"1311 SW 107th Ave, Miami, FL 33174",(305) 221-8104
+ Jasmine Sushi & Thai Cuisine,Asian,1.7 miles,"1429 SW 107th Ave, Miami, FL 33174",(305) 207-9700
+ Long Gong Chinese Restaurant,Asian,1.7 miles,"11920 SW 8th St, Miami, FL 33184",(305) 553-4644
+ Kam Wow,Asian,3.7 miles,"12895 SW 42nd St, Miami, FL 33175",(305) 229-2888
+ El Rinconcito Latino,Cuban,3.3 miles,"9872 SW 40th St, Miami, FL 33165",(305) 223-0200
+Rio Cristal,Cuban,3.6 miles,"10481 SW 40th St, Miami, FL 33165",(305) 225-0200
+Sergio's Restaurant,Cuban,4.0 miles,"9330 SW 40th St, Miami, FL 33165",(305) 552-9626
+Starbucks Coffee,Coffee&Desserts,0.3 miles,"11212 SW 11th St, Miami, FL 33199",None 
+Nightowl Cookie,Coffee&Desserts,1.4 miles,"10534 SW 8th St, Miami, FL 33174",(786) 360-5011
+"Atelier Monnier Bird Road, French Bakery & Cafe",Coffee&Desserts,3.5 miles,"9825 SW 40th St, Miami, FL 33165",(786) 452-7780
+Kentucky Fried Chicken,Fastfood,0.5 miles,"949 SW 107th Ave, Miami, FL 33174",(305) 221-9169
+Burger King,Fastfood,0.5 miles,"955 SW 107th Ave, Miami, FL 33174",(305) 553-7244
+Chick-fil-A,Fastfood,0.1 miles,"885 SW 109th Ave PG-5/Retail, Miami, FL 33199",(305) 348-7797
+Flanigan's Seafood Bar and Grill,Fastfood,3.6 miles,"9857 SW 40th St, Miami, FL 33165",(305) 207-7427
